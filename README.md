@@ -1,6 +1,6 @@
 # first-pr-demo
 
-A tiny Python utilty for calculating basic statistics on a list of numbers.
+A tiny Python utility for calculating basic statistics on a list of numbers.
 
 ## Usage
 
@@ -8,7 +8,7 @@ A tiny Python utilty for calculating basic statistics on a list of numbers.
 python stats.py 1 2 3 4 5
 ```
 
-## Fetures
+## Features
 
 - Mean
 - Minimum and maximum
